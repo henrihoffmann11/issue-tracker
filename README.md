@@ -1,2 +1,3 @@
-# issue-tracker
-Kursrepo für die LV Software Engineering in SS 2026
+# Issue Tracker App
+
+Hier entsteht eine Issue Tracker App zum VErwalten von Aufgaben 
